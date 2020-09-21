@@ -1,6 +1,6 @@
 # UX-Papaya Flow
 
-## Exploration before explanation
+## Exploration Before Explanation
 
 ## Introducción
 
