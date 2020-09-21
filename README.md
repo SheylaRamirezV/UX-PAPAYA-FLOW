@@ -17,7 +17,7 @@ Primero elegimos quién sería nuestro usuario y qué necesita saber o ver exact
 
 ## 1. Empatizar: Descubrimiento e Investigación
 
-![Design-Thinking](https://www.macguffin.es/hs-fs/hubfs/designthinking_illustration_final2-02-247723-edited.png?width=710&height=383&name=designthinking_illustration_final2-02-247723-edited.png)
+![Design-Thinking](https://miro.medium.com/max/640/0*Uk_sezp7WvIGp9GH.jpg)
 
  
  
