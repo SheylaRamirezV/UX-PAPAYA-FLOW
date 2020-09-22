@@ -8,30 +8,27 @@
 * [2. ](#2-)
 * [3. ](#3-)
 
+## How Migth We
+
+¿Cómo podríamos rediseñar la experiencia educativa remota para los alumnos pre-universitarios que planean a ingresar a universidades nacionales para lograr complementar la preparación en el ámbito emocional y así disminuir la deserción ?
+
 ## Contexto
 
-En este proyecto construimos una página web para dos tipo de user person: Nivel Avanzado y principiante. Este set de datos muestra la lista de jugadores en una liga del juego League of Legends (LoL).
-Primero elegimos quién sería nuestro usuario y qué necesita saber o ver exactamente; luego construimos una interfaz que le va ayudar a interactuar y entender mejor esos datos. Nuestra página web permitirá visualizar la data, filtrarla, ordenarla, cuenta con un buscador y una sección de estadísticas para que el usuario pueda comparar las estadísticas de los campeones que desee.
+En este proyecto construimos una solución dirigida a alumnos pre-universitarios en época de pandemia.
 
 ## Proceso de Diseño
 
 ## 1. Empatizar: Descubrimiento e Investigación
 
 ![Design-Thinking](https://miro.medium.com/max/640/0*Uk_sezp7WvIGp9GH.jpg)
-
  
- 
-[Research Lol](https://docs.google.com/forms/d/1QJtQapojbAOVnLBm99MGmrtS4GOooheSNuZYonzWvbQ/edit?ts=5f3166aa)
+[Research]()
 
 
- ### HISTORIAS DE USUARIO
-
-Hicimos nuestra planificación en Trello: Product Backlog, Sprint Backlog. Les compartimos nuestro link de esta herramienta:
-
-[Planificación en Trello](https://trello.com/b/X3Hb1fMu/data-lovers-product-backlog)
+[Planificación en Trello](https://trello.com/b/SWjoeOcI/ux-papaya-flow)
 
 
 ## 3. Ideación
 
-![Design-Thinking](https://www.macguffin.es/hs-fs/hubfs/designthinking_illustration_final2-02-247723-edited.png?width=710&height=383&name=designthinking_illustration_final2-02-247723-edited.png)
+![Design-Thinking]()
 
