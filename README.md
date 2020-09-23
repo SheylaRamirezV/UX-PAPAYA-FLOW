@@ -10,7 +10,7 @@
 
 ## How Migth We
 
-¿Cómo podríamos rediseñar la experiencia educativa remota para los alumnos pre-universitarios que planean a ingresar a universidades nacionales para lograr complementar la preparación en el ámbito emocional y así disminuir la deserción ?
+¿Cómo podríamos rediseñar la experiencia educativa remota para los alumnos pre-universitarios (5º secundaria/graduados) que planean ingresar a universidades particulares para lograr complementar su preparación en el ámbito emocional y así disminuir la deserción?
 
 ## Contexto
 
