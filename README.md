@@ -4,8 +4,8 @@
 
 ## Introducción
 
-* [1. Introducción](#1-Introducción)
-* [2. ](#2-)
+* [1. Introducción](#1-How Migth We)
+* [2. Contexto](#2-Contexto)
 * [3. ](#3-)
 
 ## How Migth We
@@ -24,6 +24,8 @@ En este proyecto construiremos una solución dirigida a alumnos pre-universitari
 [Planificación en Trello](https://trello.com/b/SWjoeOcI/ux-papaya-flow)
 
  ![planning](https://user-images.githubusercontent.com/68177371/94094434-1b904800-fde5-11ea-94d2-d468d40e2a9f.jpeg)
+ 
+## EXPLORATION BEFORE EXPLANATION
 
 ## Proceso de Diseño
 
