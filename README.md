@@ -21,11 +21,14 @@ Para proporcionar soluciones de corto plazo y mantener cierta continuidad en los
 
 En este proyecto construiremos una solución dirigida a alumnos pre-universitarios en época de pandemia.
 
+[Planificación en Trello](https://trello.com/b/SWjoeOcI/ux-papaya-flow)
+
+ ![Planning Project](https://raw.githubusercontent.com/username/projectname/branch/path/to/planning.jpeg)
+
 ## Proceso de Diseño
 
 ## 1. Empatizar: Descubrimiento e Investigación
 
-[Planificación en Trello](https://trello.com/b/SWjoeOcI/ux-papaya-flow)
 
 ![Brainstorming](https://miro.medium.com/max/640/0*Uk_sezp7WvIGp9GH.jpg)
  
