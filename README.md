@@ -25,13 +25,14 @@ En este proyecto construiremos una solución dirigida a alumnos pre-universitari
 
 ## 1. Empatizar: Descubrimiento e Investigación
 
-Definir la pregunta Base
+[Planificación en Trello](https://trello.com/b/SWjoeOcI/ux-papaya-flow)
+
 ![Brainstorming](https://miro.medium.com/max/640/0*Uk_sezp7WvIGp9GH.jpg)
  
 [Guía de entrevista](https://docs.google.com/document/d/1wyROToRhdYV1nKTHxO0tiCM564xV_XQ7/edit#)
 
 
-[Planificación en Trello](https://trello.com/b/SWjoeOcI/ux-papaya-flow)
+[Shadowing](https://www.figma.com/file/ZlIfR2uwFyub4dTBALXpO3/Shadowing?node-id=2%3A1)
 
 
 ## 3. Ideación
