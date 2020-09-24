@@ -25,8 +25,10 @@ En este proyecto construiremos una solución dirigida a alumnos pre-universitari
 
 ### Gráfico del Planeamiento
 ![planning](https://user-images.githubusercontent.com/68177371/94094434-1b904800-fde5-11ea-94d2-d468d40e2a9f.jpeg)
+
+---
  
-## EXPLORATION BEFORE EXPLANATION
+## Exploration Before Explanation
 
 ## Proceso de Diseño
 
