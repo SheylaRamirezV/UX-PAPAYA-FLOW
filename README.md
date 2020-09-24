@@ -4,7 +4,7 @@
 
 ## Introducción
 
-* [1. Introducción](#1-How Migth We)
+* [1. Introducción](#1-Introducción)
 * [2. Contexto](#2-Contexto)
 * [3. ](#3-)
 
