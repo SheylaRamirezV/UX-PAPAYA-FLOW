@@ -19,7 +19,7 @@ Por otro lado, las academias pre-universitarias no están dentro de la currícul
 Los cierres prolongados de los centros educativos están teniendo repercusiones negativas sobre los aprendizajes alcanzados, la escolarización a tiempo, la deserción y la promoción. 
 Para proporcionar soluciones de corto plazo y mantener cierta continuidad en los procesos de enseñanza aprendizaje. Las soluciones adoptadas han dependido de las capacidades y modalidades con que cada país contaba, así como de los contenidos. disponibles para construir un modelo de emergencia de educación a distancia.  Por ejemplo, la mayoría de los ministerios contaban con recursos educativos impresos digitalizados (ej. libros de texto, bibliotecas, etc.), portales educativos y recursos en línea para estudiantes y docentes. Pocos países, uno de ellos Perú, contaba con plataformas de contenidos y sistemas de gestión de los aprendizajes. Es clave comprender, sin embargo, que dichos recursos estaban diseñados para una educación que de otro modo se impartiría presencial o semi presencialmente y no completamente en forma remota.
 
-[Imagen](https://media4.giphy.com/media/KHQSWQpKAN0nA6QiiU/giphy.gif)
+![Imagen](https://media4.giphy.com/media/KHQSWQpKAN0nA6QiiU/giphy.gif)
 
 En este proyecto construiremos una solución dirigida a alumnos pre-universitarios en época de pandemia.
 
