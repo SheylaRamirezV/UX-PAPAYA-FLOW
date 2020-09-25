@@ -48,10 +48,10 @@ En este proyecto construiremos una solución dirigida a alumnos pre-universitari
 [Shadowing](https://www.figma.com/file/ZlIfR2uwFyub4dTBALXpO3/Shadowing?node-id=2%3A1)
 
 
-Los alumnos valoran mél material brindado por los docentes, se autoexigen en el aprendizaje, aunque esto, le es genere un nivel de estrés y ansiedad alto. 
+Los alumnos valoran el material brindado por los docentes, se autoexigen en el aprendizaje, aunque esto, le es genere un nivel de estrés y ansiedad alto. 
 Prestan mayor atención solo cuando los ejercicios son muy complicados, o cuando se es novato. 
 Son autodidácticos.
-Están conforme con la exigencia y ritmo de aprendizaje
+Están conforme con la exigencia y ritmo de aprendizaje de la Preparatoria.
 
 ¿QUÉ INFLUYE?
 1. Padres
@@ -68,7 +68,7 @@ Sienten que no son lo mismo las clases en remoto que las presenciales. A la mayo
 ¿CÓMO GENERAR VALOR?
 1. Generar Interacción con compañeros
 2. Fomentar clima de confianza
-
+3. Manejo de ansiedad (Por el miedo al futuro).
 
 ## 3. Ideación
 
