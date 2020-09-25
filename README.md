@@ -23,8 +23,6 @@ De un lado importante, las academias pre-universitarias no están dentro de la c
 A muchos de ellos no les termina de convencer las clases remotas, pues la interacción con sus compañeros ha ido decreciendo, por el contrario, el nivel de ansiedad y estrés. Aún con todo ello, prevalece y priorizan las ganas de alcanzar metas, ser orgullo de la familia, salir adelante, lograr independencia financiera y muchos sueños por cumplir, lo cual prevalece antes que su bienestar emocional.
 
 
-![Imagen](https://media4.giphy.com/media/KHQSWQpKAN0nA6QiiU/giphy.gif)
-
 En este proyecto construiremos una solución dirigida a alumnos pre-universitarios en época de pandemia.
 
 [Planificación en Trello A Detalle](https://trello.com/b/SWjoeOcI/ux-papaya-flow)
