@@ -54,20 +54,20 @@ Son autodidácticos.
 Están conforme con la exigencia y ritmo de aprendizaje
 
 ¿QUÉ INFLUYE?
-1-Padres
-2.-Vacantes
-3.-Competencia entre compañeros
+1. Padres
+2. Vacantes
+3. Competencia entre compañeros
 
 BREAK POINTS
 Sienten que no son lo mismo las clases en remoto que las presenciales. A la mayoría de ellos, le gustaría regresar a la etapa Pre-Pandemia 
-1.-Prestar atención 
-2-Interaccción
-3.-Actividades fuera de lo académico
-4.-Manejo de ansiedad.
+1. Prestar atención 
+2. Interaccción
+3. Actividades fuera de lo académico
+4. Manejo de ansiedad.
 
 ¿CÓMO GENERAR VALOR?
-1.-Generar Interacción con compañeros
-2.-Fomentar clima de confianza
+1. Generar Interacción con compañeros
+2. Fomentar clima de confianza
 
 
 ## 3. Ideación
